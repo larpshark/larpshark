@@ -1,7 +1,6 @@
-# LarpShark.com
-### Beer Legs &bull; Space Herpes &bull; Killer Rabbits &bull; Thinking Tubs &bull; LARP &bull; Sharks!
+## Beer Legs &bull; Space Herpes &bull; Killer Rabbits &bull; Thinking Tubs &bull; LARP &bull; Sharks!
 
-2020-21 Team Ogledorfmartensen Bad Movie Tour
+<strong>2020-21 Team Ogledorfmartensen Bad Movie Tour</strong>
 
 05 APR	The Apple<br>
 12 APR	The Ice Pirates<br>
